@@ -18,7 +18,7 @@ idf.py build
 ```
 Flash
 ```
-idf.py -p (PORT) flash monitor
+idf.py flash
 
 ```
 --------------------------------------------------------------------------
